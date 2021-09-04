@@ -1,0 +1,30 @@
+.home-background-div {
+  background-color: black;
+  min-height: 100vh;
+  color: white;
+}
+
+.profile-details-container {
+  padding: 20px;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.tech-stack-div {
+  background-color: grey;
+}
+
+.grace-profile-pic {
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+}
+
+.profile-info {
+  background-color: grey;
+  opacity: 70%;
+  width: 200px;
+  height: 200px;
+}
